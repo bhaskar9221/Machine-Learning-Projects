@@ -58,3 +58,7 @@ def show_predict_page():
 
         salary = regressor.predict(X)
         st.subheader(f"The estimated salary is ${salary[0]:.2f}")
+
+
+
+show_predict_page()
