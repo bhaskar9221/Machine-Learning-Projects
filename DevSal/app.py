@@ -7,7 +7,7 @@ import numpy as np
 #import sklearn
 
 def load_model():
-    with open('saved_steps.pkl', 'rb') as file:
+    with open('saved_steps.pkl') as file:
         df = pickle.load(file)
     return df
 
