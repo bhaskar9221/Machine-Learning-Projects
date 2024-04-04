@@ -1,0 +1,11 @@
+Project Structure
+The hands on project on Tesla stock price prediction using Facebook Prophet is divided into following tasks:
+
+Task 1: Importing all the necessary libraries
+Task 2: Importing the dataset from Yahoo Finance
+Task 3: Data Visualization using Plotly express
+Task 4: Data Preparation & Modelling
+Task 5: Forecasting
+Task 6: Forecast Evaluation using Google Finance in Google Sheets
+Task 7: Conclusion-  Stock Analysis of Tesla using Yahoo Finance
+Task 8: Automating stock forecasting- for other stocks
