@@ -1,2 +1,2 @@
 yfinance==0.1.63
-fbprophet==1.1.5
+fbprophet==0.7
