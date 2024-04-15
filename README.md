@@ -8,4 +8,4 @@ Whether you're building your Resume, preparing for Interviews, or simply expandi
 
 ### (I) [Developer Salary Prediction](https://github.com/bhaskar9221/Machine-Learning-Projects/tree/main/Developer-Salary-Prediction) 
 ### (II) [Stock Price Forecasting](https://github.com/bhaskar9221/Machine-Learning-Projects/tree/main/Stock-Price-Forecasting)
-### (III) 
+### (III) [Classifier APP](https://github.com/bhaskar9221/Machine-Learning-Projects/tree/main/ML-Classifier-APP)
