@@ -6,4 +6,4 @@ Whether you're building your Resume, preparing for Interviews, or simply expandi
 
 
 
-## (I) Regression 
+### (I) Developer Salary Prediction 
