@@ -6,4 +6,4 @@ Whether you're building your Resume, preparing for Interviews, or simply expandi
 
 
 
-### (I) Developer Salary Prediction 
+### (I) [Developer Salary Prediction](https://github.com/bhaskar9221/Machine-Learning-Projects/tree/main/Developer-Salary-Prediction) 
