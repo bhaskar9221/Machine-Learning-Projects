@@ -5,7 +5,7 @@ This is where you can find my Machine Learning Projects. I have been doing Machi
 Whether you're building your Resume, preparing for Interviews, or simply expanding your knowledge, you can use this repository as per your needs. Feel free to use them 😄
 
 ## NOTE!!!
-### DO click on the Demo for viewing the working App in Real-Time.
+### DO click on the Demo link for viewing the working App in Real-Time.
 
 
 
